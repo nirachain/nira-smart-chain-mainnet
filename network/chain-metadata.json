@@ -1,0 +1,23 @@
+{
+  "name": "Nira Smart Chain Mainnet",
+  "network": "mainnet",
+  "status": "pre-launch",
+  "chainId": null,
+  "networkId": null,
+  "nativeCurrency": {
+    "name": "Nira",
+    "symbol": "NIRA",
+    "decimals": 18
+  },
+  "evmCompatible": true,
+  "clientRepository": "https://github.com/Nirachain-Ecosystem/core-chain",
+  "clientRelease": null,
+  "consensus": "PENDING_PROTOCOL_APPROVAL",
+  "genesisHash": null,
+  "bootnodes": [],
+  "rpc": {
+    "https": null,
+    "wss": null
+  },
+  "explorer": null
+}

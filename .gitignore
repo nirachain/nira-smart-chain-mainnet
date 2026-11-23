@@ -1,0 +1,13 @@
+.env
+.env.*
+!.env.example
+node-data/
+data/
+keystore/
+*.key
+*.pem
+*.p12
+jwtsecret
+*.log
+.DS_Store
+Thumbs.db

@@ -1,0 +1,2 @@
+# Nira bootnodes — intentionally empty until operators deploy them.
+# Add only authenticated enode URLs verified through a trusted channel.
